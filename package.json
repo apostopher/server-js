@@ -1,0 +1,22 @@
+{
+  "name": "transperth",
+  "version": "1.0.0",
+  "description": "transperth analytics",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "author": "Rahul Devaskar <apostopher@gmail.com> (http://apostopher.com/)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "glob": "^5.0.3",
+    "gulp": "^3.8.11",
+    "jscs": "^1.11.3",
+    "mocha": "^2.2.1",
+    "plato": "^1.4.0"
+  }
+}
